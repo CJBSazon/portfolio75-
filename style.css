@@ -1,0 +1,108 @@
+#hero {
+    background: #0075FF;
+    margin-bottom: 100px;
+}
+ 
+.body {
+    background: #6F5CF3;
+}
+ 
+.img {
+    position: relative;
+    padding-right: 350px;
+    left: 10px;
+    margin-right: 100px;
+}
+ 
+.nav-item {
+    padding-right: 30px;
+}
+
+.navbar {
+    background-color: #0075FF;
+}
+ 
+.img1 {
+    position: relative;
+    border-radius: 100%;
+    width: 400px;
+    top: 168px;
+    left: 75px;
+    z-index: 1;
+   
+}
+ 
+.square {
+    position: relative;
+    z-index: 0;
+    height: 600px;
+    width: 350px;
+    border-radius: 100%;
+    background-color: #ADA3F4;
+    bottom: 1150;
+    left: 100px;
+    margin-bottom: -700px;
+}
+ 
+.text {
+    position: relative;
+    left: 500px;
+    bottom: 350px;
+    color: white;
+    display: inline-block;
+
+}
+.h2 {
+    font-size: 550px;
+}
+
+.btn {
+    border-radius: 100%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+.dl {
+    width: 50px;
+    margin-left: -10px;
+}
+
+.vf {
+    width: 20px;
+}
+
+.vf1 {
+    font-size: 15px;
+}
+
+.cont1 {
+    padding-left: 300px;
+    margin-bottom: -200px;
+}
+
+.navbar-toggler {
+    float: left;
+}
+
+.webview {
+    position: relative;
+    width: 300px;
+    left: 600px;
+    bottom: 668px;
+}
+
+.mobileview {
+    position: relative;
+    width: 200px;
+    left: 800px;
+    
+}
+
+.carousel {
+    position: relative;
+    width: 900px;
+    left: 500px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
