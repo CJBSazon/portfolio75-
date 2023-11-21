@@ -66,8 +66,8 @@
     display: inline-block;
 
 }
-.h2 {
-    font-size: 550px;
+.making {
+    font-size: 55px;
 }
 
 .btn {
@@ -211,6 +211,7 @@
         border-radius: 100%;
         position: relative;
         right: 455px;
+        margin-bottom: 50px;
     }    
     [class*="webview"] {
         position: relative;
@@ -279,11 +280,25 @@
     [class*="vf1"] {
         position: relative;
         right: 410px;
-        top: 220px;
+        top: 150px;
+    }
+    [class*="since"] {
+        position: relative;
+        right: 520px;
+        top: 250px;
         
     }
-    
-    
-               
-    
+    [class*="text"] {
+        padding-top: 600px;
+        
+    [class*="sinc"] {
+        text-align: center;
+    }
   }
+  @media only screen and (max-width: 768px){
+    html,
+    body{
+    width:100%;
+    overflow-x:hidden;
+    }
+}
